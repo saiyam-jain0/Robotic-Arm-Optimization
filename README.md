@@ -1,7 +1,5 @@
 # Robotic Arm Optimizer
 
-![Robotic Arm](https://www.example.com/robotic_arm_image.jpg) <!-- Add an image if you have one -->
-
 ## 🚀 Objective
 Harness the power of forward kinematics and optimization algorithms to precisely control a 2-link robotic arm, ensuring the end-effector reaches a specified target position with exceptional accuracy.
 
