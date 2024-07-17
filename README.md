@@ -26,3 +26,5 @@ This project aims to enhance the performance and accuracy of a robotic arm using
 1. Clone the repository:
    ```bash
    git clone https://github.com/saiyam-jain0/Robotic-Arm-Optimization.git
+
+You can copy and paste this code directly into the `README.md` file of your GitHub repository.
